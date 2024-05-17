@@ -18,6 +18,8 @@ Skills
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamghimire99&hide=contribs,prs)
 
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamghimire99&show_icons=true)
+
 
 
 
