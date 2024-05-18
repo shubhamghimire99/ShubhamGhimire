@@ -7,7 +7,7 @@ Skills
 - ⏭️ Next JS
 - 🖥️ HTML CSS AND JS
 
-- 🔭 I’m currently working on Full Stack Ecommerce Website 
+- 🔭 I’m currently working on Full Stack Ecommerce Website -> https://github.com/ShubhamGhimre/E-commerce-in-next-js
 - 🌱 I’m currently learning NextJS and Python for backend Development  and AL respectively 
 - 👯 I’m looking to collaborate on FrontEnd Development 
 - 😄 Pronouns: He/Him 
