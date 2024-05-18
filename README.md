@@ -4,7 +4,7 @@ I'm Shubham Ghimire form  Kathmandu, Nepal and I do frontend development. I real
 
 Skills
 - ⚛️ React
-- ⏭️ Next JS
+- ⚛️ Next JS
 - 🖥️ HTML CSS AND JS
 
 - 🔭 I’m currently working on Full Stack Ecommerce Website -> https://github.com/ShubhamGhimre/E-commerce-in-next-js
