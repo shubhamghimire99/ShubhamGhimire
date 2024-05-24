@@ -1,4 +1,6 @@
-### Hi there 👋, Shubham Ghimire
+### Hi there 👋, 
+### Shubham Ghimire
+
 #### Front End Development 
 I'm Shubham Ghimire form  Kathmandu, Nepal and I do frontend development. I really enjoy learning new technologies and frameworks like react and Nextjs. You can check out my Linkdin at https://www.linkedin.com/in/shubham-ghimire-37a268229/
 
