@@ -6,7 +6,7 @@ I'm Shubham Ghimire form  Kathmandu, Nepal and I do frontend development. I real
 
 Skills
 - ⚛️ React
-- ⚛️ Next JS
+- ⚛️ MERN
 - 🖥️ HTML CSS AND JS
 
 - 🌱 I’m currently learning NextJS and Python for backend Development and AL
